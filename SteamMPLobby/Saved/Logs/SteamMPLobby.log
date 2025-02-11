@@ -1383,3 +1383,1032 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.11-12.57.10:955][757]LogSlate: Window 'Plugins' being destroyed
 [2025.02.11-12.57.10:955][757]LogDirectoryWatcher: A directory notification for '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Plugins/' was aborted.
 [2025.02.11-12.57.37:343][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.11-12.58.56:323][857]LogDerivedDataCache: C:/Users/ardil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.11-13.00.31:598][142]LogSlate: Took 0.002447 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.11-13.00.34:260][436]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.11-13.00.34:281][436]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.11-13.00.34:293][437]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.11-13.00.36:710][725]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2025.02.11-13.00.36:711][725]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.11-13.00.42:633][418]LogStreaming: Display: FlushAsyncLoading(391): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.00.45:781][418]LogSlate: Window 'New Level' being destroyed
+[2025.02.11-13.00.45:792][418]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.11-13.00.45:808][418]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.00.45:808][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.00.45:808][418]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.02.11-13.00.45:823][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-13.00.45:825][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.11-13.00.45:840][418]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2025.02.11-13.00.45:840][418]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2025.02.11-13.00.45:915][418]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.11-13.00.45:923][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.11-13.00.45:924][418]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.11-13.00.45:924][418]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,156ms to complete.
+[2025.02.11-13.00.45:964][418]LogAutomationController: Ignoring very large delta of 3.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.01.00:327][189]LogSlate: Window 'Save Level As' being destroyed
+[2025.02.11-13.01.00:384][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.02.11-13.01.00:391][189]LogSavePackage: Moving output files for package: /Game/Levels/LobbyLevel
+[2025.02.11-13.01.00:391][189]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LobbyLevel06FB3BC94219B240D5D02DA2AE55B4C2.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap'
+[2025.02.11-13.01.00:406][189]LogFileHelpers: Saving map 'LobbyLevel' took 0.066
+[2025.02.11-13.01.00:406][189]Cmd: MAP LOAD FILE="../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.11-13.01.00:418][189]LogWorld: UWorld::CleanupWorld for LobbyLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.01.00:418][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.01.00:425][189]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-13.01.00:426][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.11-13.01.00:427][189]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.01.00:429][189]LogAudio: Display: Audio Device (ID: 1) registered with world 'LobbyLevel'.
+[2025.02.11-13.01.00:429][189]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyLevel
+[2025.02.11-13.01.00:475][189]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.11-13.01.00:484][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.11-13.01.00:489][189]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.11-13.01.00:489][189]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,043ms to complete.
+[2025.02.11-13.01.00:525][189]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.01.00:525][189]LogContentValidation: Enabled validators:
+[2025.02.11-13.01.00:525][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.01.00:525][189]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.01.00:525][189]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.01.00:525][189]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.01.00:525][189]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.01.00:525][189]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.01.00:526][189]AssetCheck: /Game/Levels/LobbyLevel Validating asset
+[2025.02.11-13.01.00:546][189]LogAutomationController: Ignoring very large delta of 7.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.01.04:381][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.01.04:439][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.11-13.01.04:446][565]LogSavePackage: Moving output files for package: /Game/Levels/LobbyLevel
+[2025.02.11-13.01.04:447][565]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LobbyLevel0D95FB67446D418227771C8466F4EEED.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap'
+[2025.02.11-13.01.04:452][565]LogFileHelpers: Saving map 'LobbyLevel' took 0.034
+[2025.02.11-13.01.04:458][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.378 ms
+[2025.02.11-13.01.04:484][565]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.01.04:484][565]LogContentValidation: Enabled validators:
+[2025.02.11-13.01.04:484][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.01.04:484][565]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.01.04:484][565]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.01.04:484][565]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.01.04:484][565]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.01.04:484][565]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.01.04:484][565]AssetCheck: /Game/Levels/LobbyLevel Validating asset
+[2025.02.11-13.01.08:875][885]LogSlate: Window 'New Level' being destroyed
+[2025.02.11-13.01.08:952][885]LogWorld: UWorld::CleanupWorld for LobbyLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.01.08:952][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.01.08:964][885]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-13.01.08:965][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.11-13.01.08:966][885]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.02.11-13.01.08:968][885]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.02.11-13.01.09:057][886]LogD3D12RHI: Creating RTPSO with 15 shaders (0 cached, 15 new) took 39.57 ms. Compile time 37.21 ms, link time 2.35 ms.
+[2025.02.11-13.01.09:063][886]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 32.24 ms. Compile time 30.43 ms, link time 1.78 ms.
+[2025.02.11-13.01.19:181][204]LogSlate: Window 'Save Level As' being destroyed
+[2025.02.11-13.01.19:237][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.11-13.01.19:241][204]LogSavePackage: Moving output files for package: /Game/Levels/LoadInLevel
+[2025.02.11-13.01.19:241][204]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LoadInLevel451F927D48496AD828426589C14AA476.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LoadInLevel.umap'
+[2025.02.11-13.01.19:251][204]LogFileHelpers: Saving map 'LoadInLevel' took 0.058
+[2025.02.11-13.01.19:251][204]Cmd: MAP LOAD FILE="../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LoadInLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.11-13.01.19:264][204]LogWorld: UWorld::CleanupWorld for LoadInLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.01.19:264][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.01.19:270][204]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-13.01.19:271][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.11-13.01.19:271][204]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.01.19:272][204]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoadInLevel'.
+[2025.02.11-13.01.19:272][204]LogChaosDD: Creating Chaos Debug Draw Scene for world LoadInLevel
+[2025.02.11-13.01.19:294][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.11-13.01.19:303][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.02.11-13.01.19:307][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.11-13.01.19:307][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,041ms to complete.
+[2025.02.11-13.01.19:335][204]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.01.19:335][204]LogContentValidation: Enabled validators:
+[2025.02.11-13.01.19:335][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.01.19:335][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.01.19:335][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.01.19:335][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.01.19:336][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.01.19:336][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.01.19:336][204]AssetCheck: /Game/Levels/LoadInLevel Validating asset
+[2025.02.11-13.01.19:348][204]LogAutomationController: Ignoring very large delta of 7.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.01.50:479][916]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.11-13.01.50:484][916]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.11-13.01.50:490][917]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.11-13.01.53:910][328]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.02.11-13.01.53:911][328]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.11-13.02.30:119][712]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.02.30:127][712]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.11-13.02.30:132][712]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.11-13.02.30:137][712]LogAutomationController: Ignoring very large delta of 32.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.02.30:153][714]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.11-13.02.30:155][715]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.02.11-13.02.38:605][729]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameInstance
+[2025.02.11-13.02.38:613][729]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.11-13.02.54:020][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 353.118988
+[2025.02.11-13.02.55:028][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.02.55:028][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 353.788452, Update Interval: 326.263611
+[2025.02.11-13.05.04:104][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.02.11-13.05.04:108][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.05.04:141][568]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2025.02.11-13.05.04:142][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2025.02.11-13.05.04:143][568]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2025.02.11-13.05.04:143][568]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_GameInstance6E81F4354C7999B1DFF344AAFA22F5F7.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/BP_GameInstance.uasset'
+[2025.02.11-13.05.04:152][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.239 ms (total: 121.618 ms)
+[2025.02.11-13.05.04:186][568]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.05.04:186][568]LogContentValidation: Enabled validators:
+[2025.02.11-13.05.04:186][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.05.04:186][568]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.05.04:186][568]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.05.04:186][568]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.05.04:186][568]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.05.04:186][568]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.05.04:187][568]AssetCheck: /Game/Blueprints/BP_GameInstance Validating asset
+[2025.02.11-13.05.15:693][942]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.02.11-13.05.15:693][942]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2025.02.11-13.05.20:170][373]LogSlate: External Image Picker: DecompressImage failed
+[2025.02.11-13.05.20:337][374]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.02.11-13.05.34:880][958]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.11-13.05.37:921][319]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.05.37:923][319]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyLevel
+[2025.02.11-13.06.03:509][368]LogSlate: Window 'Project Settings' being destroyed
+[2025.02.11-13.06.11:647][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2025.02.11-13.06.11:648][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.02.11-13.06.11:711][338]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.06.12:593][338]LogSlate: Took 0.000537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.11-13.06.12:598][338]LogSlate: Took 0.002248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.02.11-13.06.14:693][575]LogSlate: Window 'BP_GameInstance' being destroyed
+[2025.02.11-13.07.41:353][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.02.11-13.07.42:323][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.07.42:351][558]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2025.02.11-13.07.42:352][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2025.02.11-13.07.42:355][558]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2025.02.11-13.07.42:355][558]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_GameInstance567B8CFF4929F7CF64A6F0B179AE3CC2.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/BP_GameInstance.uasset'
+[2025.02.11-13.07.42:362][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.267 ms (total: 160.885 ms)
+[2025.02.11-13.07.42:390][558]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.07.42:390][558]LogContentValidation: Enabled validators:
+[2025.02.11-13.07.42:390][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.07.42:390][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.07.42:390][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.07.42:390][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.07.42:390][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.07.42:390][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.07.42:390][558]AssetCheck: /Game/Blueprints/BP_GameInstance Validating asset
+[2025.02.11-13.07.45:000][863]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.02.11-13.07.57:046][434]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/LoadInLevel.LoadInLevel:PersistentLevel.LoadInLevel
+[2025.02.11-13.07.57:046][434]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.02.11-13.08.24:457][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 683.556091
+[2025.02.11-13.08.24:615][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.08.24:615][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 683.706055, Update Interval: 304.442261
+[2025.02.11-13.08.29:672][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.11-13.08.30:141][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.08.30:193][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.02.11-13.08.30:198][221]LogSavePackage: Moving output files for package: /Game/Levels/LoadInLevel
+[2025.02.11-13.08.30:198][221]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LoadInLevel7B67B57D4FAD6F4E3858D7B6FBE218EA.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LoadInLevel.umap'
+[2025.02.11-13.08.30:203][221]LogFileHelpers: Saving map 'LoadInLevel' took 0.038
+[2025.02.11-13.08.30:210][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.102 ms (total: 229.988 ms)
+[2025.02.11-13.08.30:244][221]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.08.30:244][221]LogContentValidation: Enabled validators:
+[2025.02.11-13.08.30:244][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.08.30:244][221]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.08.30:244][221]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.08.30:244][221]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.08.30:244][221]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.08.30:244][221]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.08.30:244][221]AssetCheck: /Game/Levels/LoadInLevel Validating asset
+[2025.02.11-13.08.41:649][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.02.11-13.08.42:073][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.08.42:134][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.11-13.08.42:139][282]LogSavePackage: Moving output files for package: /Game/Levels/LoadInLevel
+[2025.02.11-13.08.42:139][282]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LoadInLevel76A1C7C242F0431C16FF47BD9A64A6B4.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LoadInLevel.umap'
+[2025.02.11-13.08.42:145][282]LogFileHelpers: Saving map 'LoadInLevel' took 0.037
+[2025.02.11-13.08.42:150][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.217 ms (total: 308.205 ms)
+[2025.02.11-13.08.42:184][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.08.42:184][282]LogContentValidation: Enabled validators:
+[2025.02.11-13.08.42:184][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.08.42:184][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.08.42:184][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.08.42:184][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.08.42:184][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.08.42:184][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.08.42:184][282]AssetCheck: /Game/Levels/LoadInLevel Validating asset
+[2025.02.11-13.08.50:329][257]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.08.50:329][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.08.50:361][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.11-13.08.50:912][322]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.08.50:912][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.08.50:941][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.02.11-13.08.55:895][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.02.11-13.08.55:896][910]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LobbyLevel.LobbyLevel
+[2025.02.11-13.08.55:896][910]Cmd: MAP LOAD FILE="../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.02.11-13.08.55:909][910]LogWorld: UWorld::CleanupWorld for LoadInLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.08.55:909][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.08.55:923][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-13.08.55:925][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.11-13.08.55:926][910]LogWorld: UWorld::CleanupWorld for LobbyLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.08.55:926][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.08.55:941][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.11-13.08.55:955][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.02.11-13.08.55:956][910]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.08.55:958][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'LobbyLevel'.
+[2025.02.11-13.08.55:958][910]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyLevel
+[2025.02.11-13.08.56:037][910]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.02.11-13.08.56:053][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.11-13.08.56:058][910]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.02.11-13.08.56:058][910]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,044ms to complete.
+[2025.02.11-13.10.42:298][272]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.10.42:324][272]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.11-13.10.42:329][272]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.11-13.10.42:337][273]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.11-13.11.01:474][465]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ThirdPersonGamemode
+[2025.02.11-13.11.01:481][465]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.11-13.11.06:165][997]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/BP_ThirdPersonGamemode.BP_ThirdPersonGamemode
+[2025.02.11-13.11.06:166][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.02.11-13.11.06:238][997]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-13.11.08:218][156]LogSlate: Window 'BP_ThirdPersonGamemode' being destroyed
+[2025.02.11-13.11.26:752][236]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.BP_ThirdPersonGamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/BP_ThirdPersonGamemode.PackageMetaData'
+[2025.02.11-13.11.26:753][236]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.SKEL_BP_ThirdPersonGamemode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/BP_ThirdPersonGamemode.PackageMetaData'
+[2025.02.11-13.11.26:753][236]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.SKEL_BP_ThirdPersonGamemode_C' ref from Metadata '/Game/ThirdPerson/BP_ThirdPersonGamemode.PackageMetaData'
+[2025.02.11-13.11.26:753][236]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.BP_ThirdPersonGamemode_C' ref from Metadata '/Game/ThirdPerson/BP_ThirdPersonGamemode.PackageMetaData'
+[2025.02.11-13.11.26:753][236]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.BP_ThirdPersonGamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPerson/BP_ThirdPersonGamemode.PackageMetaData'
+[2025.02.11-13.11.26:753][236]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.BP_ThirdPersonGamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPerson/BP_ThirdPersonGamemode.PackageMetaData'
+[2025.02.11-13.11.26:763][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.11.26:764][236]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode] ([2] browsable assets)...
+[2025.02.11-13.11.26:764][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode]
+[2025.02.11-13.11.26:766][236]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode
+[2025.02.11-13.11.26:766][236]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_ThirdPersonGamemode9DAF4D8841E68EDE52FEFD9E0213444F.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.uasset'
+[2025.02.11-13.11.26:770][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.840 ms (total: 315.046 ms)
+[2025.02.11-13.11.26:819][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.02.11-13.11.26:836][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.02.11-13.11.26:850][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.11-13.11.26:868][236]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.11-13.11.26:868][236]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.11.26:868][236]LogContentValidation: Enabled validators:
+[2025.02.11-13.11.26:868][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.11.26:868][236]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.11.26:868][236]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.11.26:868][236]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.11.26:868][236]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.11.26:868][236]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.11.26:868][236]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode Validating asset
+[2025.02.11-13.11.53:039][853]LogSlate: Window 'Create New Blueprint' being destroyed
+[2025.02.11-13.11.53:061][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/GameStateBase.GameStateBase
+[2025.02.11-13.11.53:062][853]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.02.11-13.11.53:298][853]LogAutomationController: Ignoring very large delta of 12.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.11.56:464][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.11-13.11.56:802][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.11.56:830][252]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/GameStateBase] ([2] browsable assets)...
+[2025.02.11-13.11.56:830][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/GameStateBase]
+[2025.02.11-13.11.56:832][252]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/GameStateBase
+[2025.02.11-13.11.56:832][252]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/GameStateBaseDB4AC7364A8501A36D93D9BBD40F4A99.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/GameStateBase.uasset'
+[2025.02.11-13.11.56:842][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.342 ms (total: 355.388 ms)
+[2025.02.11-13.11.56:871][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.11.56:872][252]LogContentValidation: Enabled validators:
+[2025.02.11-13.11.56:872][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.11.56:872][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.11.56:872][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.11.56:872][252]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.11.56:872][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.11.56:872][252]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.11.56:872][252]AssetCheck: /Game/ThirdPerson/Blueprints/GameStateBase Validating asset
+[2025.02.11-13.11.57:596][334]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.11.57:596][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.11.57:633][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.11-13.12.15:732][888]LogSlate: Window 'Create New Blueprint' being destroyed
+[2025.02.11-13.12.15:753][888]LogAutomationController: Ignoring very large delta of 4.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.12.53:742][ 11]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.12.53:753][ 11]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.11-13.12.53:759][ 11]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.11-13.12.53:768][ 12]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.11-13.13.00:729][801]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerController
+[2025.02.11-13.13.00:738][801]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.11-13.13.34:265][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 993.369446
+[2025.02.11-13.13.34:714][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.13.34:714][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 993.811462, Update Interval: 338.793915
+[2025.02.11-13.13.35:606][882]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/PlayerController.PlayerController
+[2025.02.11-13.13.35:606][882]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.02.11-13.14.00:126][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.11-13.14.00:679][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.14.00:708][785]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode] ([2] browsable assets)...
+[2025.02.11-13.14.00:708][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode]
+[2025.02.11-13.14.00:711][785]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode
+[2025.02.11-13.14.00:712][785]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_ThirdPersonGamemode319DF51543794C8C2447D3B60FC04E35.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.uasset'
+[2025.02.11-13.14.00:719][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.917 ms (total: 395.306 ms)
+[2025.02.11-13.14.00:748][785]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.14.00:748][785]LogContentValidation: Enabled validators:
+[2025.02.11-13.14.00:748][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.14.00:748][785]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.14.00:748][785]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.14.00:748][785]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.14.00:748][785]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.14.00:748][785]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.14.00:748][785]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode Validating asset
+[2025.02.11-13.14.03:511][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.14.03:561][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.11-13.14.03:567][ 79]LogSavePackage: Moving output files for package: /Game/Levels/LobbyLevel
+[2025.02.11-13.14.03:568][ 79]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LobbyLevelDE8927E540008A900BE91BA9BC71E1BA.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap'
+[2025.02.11-13.14.03:574][ 79]LogFileHelpers: Saving map 'LobbyLevel' took 0.039
+[2025.02.11-13.14.03:580][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.791 ms (total: 464.097 ms)
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: Enabled validators:
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.14.03:616][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.14.03:616][ 79]AssetCheck: /Game/Levels/LobbyLevel Validating asset
+[2025.02.11-13.14.12:952][139]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.02.11-13.14.12:970][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.02.11-13.14.14:335][139]LogSlate: Window 'Save Content' being destroyed
+[2025.02.11-13.14.14:348][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.14.14:378][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/PlayerController] ([2] browsable assets)...
+[2025.02.11-13.14.14:378][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/PlayerController]
+[2025.02.11-13.14.14:381][139]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/PlayerController
+[2025.02.11-13.14.14:381][139]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/PlayerController6694F505406FD29200A7F191AA029C22.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/PlayerController.uasset'
+[2025.02.11-13.14.14:390][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.359 ms (total: 506.456 ms)
+[2025.02.11-13.14.14:449][140]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.14.14:449][140]LogContentValidation: Enabled validators:
+[2025.02.11-13.14.14:449][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.14.14:449][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.14.14:449][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.14.14:449][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.14.14:449][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.14.14:449][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.14.14:449][140]AssetCheck: /Game/ThirdPerson/Blueprints/PlayerController Validating asset
+[2025.02.11-13.14.39:732][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.02.11-13.14.40:379][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.14.40:407][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode] ([2] browsable assets)...
+[2025.02.11-13.14.40:407][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode]
+[2025.02.11-13.14.40:409][835]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode
+[2025.02.11-13.14.40:410][835]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_ThirdPersonGamemodeBC8BCE904E2BC6DD534BE68FB048BD7B.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.uasset'
+[2025.02.11-13.14.40:418][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.119 ms (total: 545.576 ms)
+[2025.02.11-13.14.40:441][835]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.14.40:441][835]LogContentValidation: Enabled validators:
+[2025.02.11-13.14.40:441][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.14.40:441][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.14.40:441][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.14.40:441][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.14.40:441][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.14.40:441][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.14.40:441][835]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode Validating asset
+[2025.02.11-13.14.42:130][ 18]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.02.11-13.14.42:149][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.11-13.15.39:759][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.11-13.15.42:155][ 82]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.11-13.15.42:271][ 82]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.15.42:271][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.15.42:310][ 82]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.11-13.15.42:311][ 82]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.15.42:311][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.15.42:334][ 82]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPerson/Blueprints/PlayerController.PlayerController
+	Asset Type: Blueprint
+[2025.02.11-13.15.42:556][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.11-13.15.42:574][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.11-13.15.42:588][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.11-13.15.42:609][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.02.11-13.15.42:615][ 82]LogAutomationController: Ignoring very large delta of 2.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.15.50:231][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-13.15.50:235][908]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2025.02.11-13.15.50:238][908]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.11-13.15.50:238][908]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.11-13.15.50:240][908]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LobbyLevel
+[2025.02.11-13.15.50:243][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002389s)
+[2025.02.11-13.15.50:243][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LobbyLevel.LobbyLevel to /Game/Levels/UEDPIE_0_LobbyLevel.LobbyLevel (0.002451s)
+[2025.02.11-13.15.50:258][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.02.11-13.15.50:261][908]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.02.11-13.15.50:262][908]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2025.02.11-13.15.50:262][908]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyLevel
+[2025.02.11-13.15.50:264][908]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2025.02.11-13.15.50:265][908]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.11-13.15.50:265][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-13.15.50:265][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-13.15.50:265][908]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-13.15.50:265][908]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-13.15.50:265][908]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-13.15.50:267][908]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-13.15.50:294][908]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2025.02.11-13.15.50:294][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-13.15.50:294][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-13.15.50:294][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-13.15.50:295][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.11-13.15.50:295][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.11-13.15.50:297][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.11-13.15.50:297][908]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.11-13.15.50:297][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.11-13.15.50:297][908]LogAudio: Display: Audio Device (ID: 2) registered with world 'LobbyLevel'.
+[2025.02.11-13.15.50:297][908]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.11-13.15.50:300][908]LogLoad: Game class is 'BP_ThirdPersonGamemode_C'
+[2025.02.11-13.15.50:302][908]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LobbyLevel.LobbyLevel up for play (max tick rate 0) at 2025.02.11-16.15.50
+[2025.02.11-13.15.50:302][908]LogWorld: Bringing up level for play took: 0.000850
+[2025.02.11-13.15.50:302][908]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.02.11-13.15.50:302][908]LogGameMode: Login: Couldn't spawn player controller of class NULL
+[2025.02.11-13.15.50:302][908]LogSpawn: Warning: Login failed: Failed to spawn player controller
+[2025.02.11-13.15.53:411][908]LogSlate: Window 'Message' being destroyed
+[2025.02.11-13.15.53:417][908]Message dialog closed, result: Ok, title: Message, text: Couldn't spawn player: Failed to spawn player controller
+[2025.02.11-13.15.53:420][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.15.53:420][908]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LobbyLevel
+[2025.02.11-13.15.53:420][908]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2025.02.11-13.15.53:421][908]LogWorld: UWorld::CleanupWorld for LobbyLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.15.53:421][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.15.53:424][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-13.15.53:427][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.15.53:443][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.15.53:443][908]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.11-13.15.53:443][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.11-13.15.53:445][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.11-13.15.53:450][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.02.11-13.15.53:470][908]LogAutomationController: Ignoring very large delta of 3.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.15.53:473][909]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.02.11-13.15.57:656][193]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.15.57:666][193]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.11-13.15.57:671][193]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.11-13.15.57:680][194]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.11-13.16.02:539][730]LogContentBrowser: Attempting asset rename: NewBlueprint -> PlayerController
+[2025.02.11-13.16.02:546][730]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.11-13.16.14:869][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.16.14:927][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.02.11-13.16.14:935][ 75]LogSavePackage: Moving output files for package: /Game/Levels/LobbyLevel
+[2025.02.11-13.16.14:936][ 75]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/LobbyLevelE6AA400F41721E28A38922A0CCECFDAC.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap'
+[2025.02.11-13.16.14:940][ 75]LogFileHelpers: Saving map 'LobbyLevel' took 0.039
+[2025.02.11-13.16.14:948][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.831 ms (total: 624.407 ms)
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: Enabled validators:
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.16.14:976][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.16.14:976][ 75]AssetCheck: /Game/Levels/LobbyLevel Validating asset
+[2025.02.11-13.16.18:272][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.02.11-13.16.18:275][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.16.18:316][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode] ([2] browsable assets)...
+[2025.02.11-13.16.18:316][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode]
+[2025.02.11-13.16.18:319][440]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode
+[2025.02.11-13.16.18:319][440]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_ThirdPersonGamemode51B10196418DE66F1DC99FA41EE3FFC9.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.uasset'
+[2025.02.11-13.16.18:321][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/PlayerController] ([2] browsable assets)...
+[2025.02.11-13.16.18:321][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/PlayerController]
+[2025.02.11-13.16.18:323][440]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/PlayerController
+[2025.02.11-13.16.18:323][440]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/PlayerController5A8F33C44B26AAA440C61E8624D82E8F.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/PlayerController.uasset'
+[2025.02.11-13.16.18:332][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.805 ms (total: 681.213 ms)
+[2025.02.11-13.16.18:365][440]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.11-13.16.18:365][440]LogContentValidation: Enabled validators:
+[2025.02.11-13.16.18:365][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.16.18:365][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.16.18:365][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.16.18:365][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.16.18:365][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.16.18:365][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.16.18:365][440]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode Validating asset
+[2025.02.11-13.16.18:365][440]AssetCheck: /Game/ThirdPerson/Blueprints/PlayerController Validating asset
+[2025.02.11-13.16.19:636][579]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-13.16.19:640][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-13.16.19:640][579]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LobbyLevel
+[2025.02.11-13.16.19:641][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001118s)
+[2025.02.11-13.16.19:641][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LobbyLevel.LobbyLevel to /Game/Levels/UEDPIE_0_LobbyLevel.LobbyLevel (0.001147s)
+[2025.02.11-13.16.19:659][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.02.11-13.16.19:661][579]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.02.11-13.16.19:661][579]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2025.02.11-13.16.19:661][579]LogChaosDD: Creating Chaos Debug Draw Scene for world LobbyLevel
+[2025.02.11-13.16.19:662][579]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2025.02.11-13.16.19:663][579]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.11-13.16.19:663][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-13.16.19:663][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-13.16.19:663][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-13.16.19:663][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-13.16.19:663][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-13.16.19:665][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-13.16.19:688][579]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2025.02.11-13.16.19:688][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-13.16.19:688][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-13.16.19:688][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-13.16.19:689][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.02.11-13.16.19:689][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.02.11-13.16.19:691][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.02.11-13.16.19:691][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.02.11-13.16.19:691][579]LogInit: FAudioDevice initialized with ID 3.
+[2025.02.11-13.16.19:691][579]LogAudio: Display: Audio Device (ID: 3) registered with world 'LobbyLevel'.
+[2025.02.11-13.16.19:691][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.11-13.16.19:693][579]LogLoad: Game class is 'BP_ThirdPersonGamemode_C'
+[2025.02.11-13.16.19:694][579]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LobbyLevel.LobbyLevel up for play (max tick rate 0) at 2025.02.11-16.16.19
+[2025.02.11-13.16.19:694][579]LogWorld: Bringing up level for play took: 0.000659
+[2025.02.11-13.16.19:699][579]PIE: Server logged in
+[2025.02.11-13.16.19:700][579]PIE: Play in editor total start time 0,06 seconds.
+[2025.02.11-13.16.23:343][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.16.23:343][942]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LobbyLevel
+[2025.02.11-13.16.23:343][942]AdvancedFriendsInterfaceLog: Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2025.02.11-13.16.23:343][942]LogWorld: UWorld::CleanupWorld for LobbyLevel, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.16.23:343][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.16.23:351][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-13.16.23:356][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.16.23:403][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-13.16.23:403][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.02.11-13.16.23:403][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.11-13.16.23:405][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.02.11-13.16.23:412][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.02.11-13.16.23:437][943]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.02.11-13.16.39:094][603]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.11-13.16.39:100][603]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.11-13.16.39:111][604]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.11-13.16.41:803][926]LogContentBrowser: Attempting asset rename: NewFolder -> Lobby
+[2025.02.11-13.16.41:804][926]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.11-13.16.49:027][420]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.16.49:034][420]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.11-13.16.49:041][420]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.11-13.16.49:044][420]LogAutomationController: Ignoring very large delta of 2.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.16.49:058][422]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.11-13.17.14:676][789]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PC_Lobby
+[2025.02.11-13.17.14:681][789]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.11-13.17.49:323][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.11-13.17.49:328][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.17.49:357][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode] ([2] browsable assets)...
+[2025.02.11-13.17.49:357][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode]
+[2025.02.11-13.17.49:359][160]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode
+[2025.02.11-13.17.49:360][160]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_ThirdPersonGamemodeF523E5734B468C3249598CB52B656A19.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.uasset'
+[2025.02.11-13.17.49:361][160]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/BP_PC_Lobby] ([2] browsable assets)...
+[2025.02.11-13.17.49:361][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/BP_PC_Lobby]
+[2025.02.11-13.17.49:363][160]LogSavePackage: Moving output files for package: /Game/Blueprints/Lobby/BP_PC_Lobby
+[2025.02.11-13.17.49:363][160]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_PC_LobbyBEF1B7AE486E278307FD17A5AFBC6F3F.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_PC_Lobby.uasset'
+[2025.02.11-13.17.49:371][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.293 ms (total: 723.507 ms)
+[2025.02.11-13.17.49:401][160]LogContentValidation: Display: Starting to validate 2 assets
+[2025.02.11-13.17.49:401][160]LogContentValidation: Enabled validators:
+[2025.02.11-13.17.49:401][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.17.49:401][160]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.17.49:401][160]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.17.49:401][160]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.17.49:401][160]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.17.49:402][160]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.17.49:402][160]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGamemode Validating asset
+[2025.02.11-13.17.49:402][160]AssetCheck: /Game/Blueprints/Lobby/BP_PC_Lobby Validating asset
+[2025.02.11-13.17.54:234][737]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Lobby/BP_PC_Lobby.BP_PC_Lobby
+[2025.02.11-13.17.54:234][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.02.11-13.17.58:776][ 57]LogSlate: Window 'BP_PC_Lobby' being destroyed
+[2025.02.11-13.18.18:270][805]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.11-13.18.18:287][805]LogAutomationController: Ignoring very large delta of 4.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.18.19:409][917]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.11-13.18.19:417][917]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.11-13.18.19:428][918]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.11-13.18.20:623][ 62]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.02.11-13.18.20:624][ 62]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.11-13.18.27:339][611]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.11-13.18.27:351][611]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.11-13.18.27:356][611]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.11-13.18.27:377][613]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.11-13.18.37:750][855]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_LobbyUI
+[2025.02.11-13.18.37:763][855]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.11-13.18.41:760][329]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/W_LobbyUI.W_LobbyUI
+[2025.02.11-13.18.41:760][329]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.02.11-13.18.41:766][329]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.02.11-13.18.41:775][329]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.02.11-13.18.41:991][329]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.02.11-13.18.41:991][329]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.02.11-13.18.42:249][329]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.02.11-13.18.44:102][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.18.44:124][549]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_LobbyUI] ([2] browsable assets)...
+[2025.02.11-13.18.44:127][549]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_LobbyUI.W_LobbyUI]
+[2025.02.11-13.18.44:127][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_LobbyUI]
+[2025.02.11-13.18.44:132][549]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_LobbyUI
+[2025.02.11-13.18.44:132][549]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_LobbyUI2F2A9C1342EC963A6838C7AF661D8AA0.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_LobbyUI.uasset'
+[2025.02.11-13.18.44:140][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.184 ms (total: 761.691 ms)
+[2025.02.11-13.18.44:165][549]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.18.44:165][549]LogContentValidation: Enabled validators:
+[2025.02.11-13.18.44:165][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.18.44:165][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.18.44:165][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.18.44:165][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.18.44:165][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.18.44:165][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.18.44:165][549]AssetCheck: /Game/Blueprints/UI/W_LobbyUI Validating asset
+[2025.02.11-13.19.26:873][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1345.973999
+[2025.02.11-13.19.27:065][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.19.27:065][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1346.158081, Update Interval: 353.190094
+[2025.02.11-13.20.30:061][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.02.11-13.20.30:662][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.20.30:690][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/BP_PC_Lobby] ([2] browsable assets)...
+[2025.02.11-13.20.30:690][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/BP_PC_Lobby]
+[2025.02.11-13.20.30:696][472]LogSavePackage: Moving output files for package: /Game/Blueprints/Lobby/BP_PC_Lobby
+[2025.02.11-13.20.30:696][472]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_PC_Lobby55685D7543A5A755A65E5CAF591EA67A.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_PC_Lobby.uasset'
+[2025.02.11-13.20.30:703][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.249 ms (total: 801.940 ms)
+[2025.02.11-13.20.30:731][472]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.20.30:731][472]LogContentValidation: Enabled validators:
+[2025.02.11-13.20.30:731][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.20.30:731][472]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.20.30:731][472]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.20.30:731][472]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.20.30:731][472]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.20.30:731][472]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.20.30:731][472]AssetCheck: /Game/Blueprints/Lobby/BP_PC_Lobby Validating asset
+[2025.02.11-13.20.34:557][929]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.20.34:557][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.20.34:592][929]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.11-13.20.35:001][968]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.20.35:001][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.20.35:013][968]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.20.35:013][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.20.35:045][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.02.11-13.21.12:711][ 72]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2025.02.11-13.21.12:711][ 72]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.02.11-13.21.19:240][829]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.21.19:240][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.21.19:282][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.02.11-13.21.41:398][880]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.11-13.21.41:407][880]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.11-13.21.41:413][880]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.11-13.21.41:422][881]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.11-13.21.46:512][491]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Friend
+[2025.02.11-13.21.46:517][491]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.11-13.21.48:023][668]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/W_Friend.W_Friend
+[2025.02.11-13.21.48:023][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.02.11-13.21.48:029][668]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.02.11-13.21.52:607][ 54]LogSlate: Window 'W_Friend' being destroyed
+[2025.02.11-13.21.56:019][423]LogMetaData: Removing '/Game/Blueprints/UI/W_Friend.SKEL_W_Friend_C' ref from Metadata '/Game/Blueprints/W_Friend.PackageMetaData'
+[2025.02.11-13.21.56:019][423]LogMetaData: Removing '/Game/Blueprints/UI/W_Friend.W_Friend_C' ref from Metadata '/Game/Blueprints/W_Friend.PackageMetaData'
+[2025.02.11-13.21.56:019][423]LogMetaData: Removing '/Game/Blueprints/UI/W_Friend.W_Friend:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/W_Friend.PackageMetaData'
+[2025.02.11-13.21.56:019][423]LogMetaData: Removing '/Game/Blueprints/UI/W_Friend.W_Friend:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/W_Friend.PackageMetaData'
+[2025.02.11-13.21.56:019][423]LogMetaData: Removing '/Game/Blueprints/UI/W_Friend.W_Friend:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/W_Friend.PackageMetaData'
+[2025.02.11-13.21.56:029][423]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.21.56:029][423]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_Friend] ([2] browsable assets)...
+[2025.02.11-13.21.56:030][423]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_Friend.W_Friend]
+[2025.02.11-13.21.56:030][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_Friend]
+[2025.02.11-13.21.56:032][423]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_Friend
+[2025.02.11-13.21.56:032][423]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_Friend7EEDE2DD4FCA92DDB2B6F09A3233C707.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset'
+[2025.02.11-13.21.56:038][423]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.076 ms (total: 811.017 ms)
+[2025.02.11-13.21.56:084][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.02.11-13.21.56:100][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.11-13.21.56:114][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.02.11-13.21.56:131][423]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.11-13.21.56:131][423]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.21.56:131][423]LogContentValidation: Enabled validators:
+[2025.02.11-13.21.56:131][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.21.56:131][423]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.21.56:131][423]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.21.56:131][423]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.21.56:131][423]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.21.56:131][423]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.21.56:131][423]AssetCheck: /Game/Blueprints/UI/W_Friend Validating asset
+[2025.02.11-13.22.01:539][593]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/W_LobbyUI.W_LobbyUI
+[2025.02.11-13.22.01:539][593]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.02.11-13.22.01:544][593]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.02.11-13.22.03:405][776]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.22.03:405][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.22.03:409][776]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.22.03:409][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.22.03:455][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.02.11-13.22.49:166][420]LogSlate: Took 0.004171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.02.11-13.25.38:885][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1717.975586
+[2025.02.11-13.25.39:052][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.25.39:052][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1718.134155, Update Interval: 348.601349
+[2025.02.11-13.26.54:387][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.11-13.26.54:901][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.26.54:934][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_Friend] ([2] browsable assets)...
+[2025.02.11-13.26.54:937][966]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_Friend.W_Friend]
+[2025.02.11-13.26.54:938][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_Friend]
+[2025.02.11-13.26.54:942][966]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_Friend
+[2025.02.11-13.26.54:943][966]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendEA9540D341B9BD571AF27B8554D8A6A1.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset'
+[2025.02.11-13.26.54:950][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.898 ms (total: 859.916 ms)
+[2025.02.11-13.26.54:973][966]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.26.54:973][966]LogContentValidation: Enabled validators:
+[2025.02.11-13.26.54:973][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.26.54:973][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.26.54:973][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.26.54:973][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.26.54:973][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.26.54:973][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.26.54:974][966]AssetCheck: /Game/Blueprints/UI/W_Friend Validating asset
+[2025.02.11-13.27.44:212][670]LogSlate: Took 0.002372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.02.11-13.29.42:242][502]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.11-13.31.31:669][610]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.11-13.31.39:654][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.02.11-13.31.39:768][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.02.11-13.31.40:374][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.31.40:393][ 86]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_Friend] ([2] browsable assets)...
+[2025.02.11-13.31.40:397][ 86]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_Friend.W_Friend]
+[2025.02.11-13.31.40:397][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_Friend]
+[2025.02.11-13.31.40:405][ 86]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_Friend
+[2025.02.11-13.31.40:405][ 86]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendFDAB8C6B40BB68AA1D94FA985BE6AD26.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset'
+[2025.02.11-13.31.40:413][ 86]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.914 ms (total: 898.830 ms)
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: Enabled validators:
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.31.40:439][ 86]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.31.40:440][ 86]AssetCheck: /Game/Blueprints/UI/W_Friend Validating asset
+[2025.02.11-13.32.24:680][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2123.781738
+[2025.02.11-13.32.24:863][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.32.24:863][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2123.956299, Update Interval: 351.058685
+[2025.02.11-13.33.41:057][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.02.11-13.33.41:504][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.11-13.33.41:987][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.33.42:007][906]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_Friend] ([2] browsable assets)...
+[2025.02.11-13.33.42:010][906]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_Friend.W_Friend]
+[2025.02.11-13.33.42:010][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_Friend]
+[2025.02.11-13.33.42:019][906]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_Friend
+[2025.02.11-13.33.42:019][906]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendA4B354674348AEF6C82001B05314764F.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset'
+[2025.02.11-13.33.42:027][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.640 ms (total: 938.471 ms)
+[2025.02.11-13.33.42:053][906]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.33.42:053][906]LogContentValidation: Enabled validators:
+[2025.02.11-13.33.42:053][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.33.42:054][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.33.42:054][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.33.42:054][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.33.42:054][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.33.42:054][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.33.42:055][906]AssetCheck: /Game/Blueprints/UI/W_Friend Validating asset
+[2025.02.11-13.34.00:998][514]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.02.11-13.34.01:010][514]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.02.11-13.34.01:017][514]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.02.11-13.34.01:028][515]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.02.11-13.34.10:331][468]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_FriendList
+[2025.02.11-13.34.10:336][468]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.02.11-13.34.11:985][653]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList
+[2025.02.11-13.34.11:985][653]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.02.11-13.34.11:991][653]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.02.11-13.35.03:928][283]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-13.35.36:575][355]LogEditorTransaction: Undo Edit Padding
+[2025.02.11-13.36.23:196][313]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-13.36.31:185][ 29]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-13.36.42:992][430]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-13.36.52:578][571]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-13.37.01:409][963]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-13.37.56:415][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.02.11-13.37.56:941][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.37.56:968][984]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.37.56:972][984]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.37.56:972][984]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.37.56:975][984]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.37.56:975][984]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendListD004F51146F8D0D07481CDA6D0B233A7.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.37.56:984][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.481 ms (total: 980.953 ms)
+[2025.02.11-13.37.57:009][984]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.37.57:009][984]LogContentValidation: Enabled validators:
+[2025.02.11-13.37.57:009][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.37.57:009][984]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.37.57:010][984]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.37.57:010][984]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.37.57:010][984]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.37.57:010][984]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.37.57:010][984]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.38.53:435][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2512.524414
+[2025.02.11-13.38.53:611][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.38.53:611][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2512.691406, Update Interval: 359.333466
+[2025.02.11-13.39.12:551][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.02.11-13.39.13:194][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.39.13:213][795]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.39.13:216][795]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.39.13:216][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.39.13:220][795]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.39.13:220][795]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendListA7995563401B17D84344E3B56914040E.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.39.13:227][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 33.662 ms (total: 1.01 sec)
+[2025.02.11-13.39.13:254][795]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.39.13:254][795]LogContentValidation: Enabled validators:
+[2025.02.11-13.39.13:254][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.39.13:254][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.39.13:254][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.39.13:254][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.39.13:254][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.39.13:254][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.39.13:254][795]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.39.24:666][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.02.11-13.39.25:201][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.39.25:229][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.39.25:231][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.39.25:231][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.39.25:235][836]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.39.25:235][836]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendList6A1EA5D24961A92D30CA77B0130CBF36.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.39.25:242][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.539 ms (total: 1.05 sec)
+[2025.02.11-13.39.25:272][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.39.25:272][836]LogContentValidation: Enabled validators:
+[2025.02.11-13.39.25:272][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.39.25:272][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.39.25:272][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.39.25:272][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.39.25:272][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.39.25:272][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.39.25:273][836]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.39.39:790][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.02.11-13.39.40:278][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.39.40:308][922]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.39.40:310][922]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.39.40:310][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.39.40:314][922]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.39.40:315][922]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendList920495C54D7562949082459DDC4967CB.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.39.40:322][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.976 ms (total: 1.09 sec)
+[2025.02.11-13.39.40:356][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.39.40:356][922]LogContentValidation: Enabled validators:
+[2025.02.11-13.39.40:356][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.39.40:356][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.39.40:356][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.39.40:356][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.39.40:356][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.39.40:356][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.39.40:357][922]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.42.40:277][229]LogBlueprint: Warning: Cannot name local variable 'Friends'. The name is already used.
+[2025.02.11-13.42.47:119][ 50]LogBlueprint: Warning: Cannot name local variable 'Friends'. The name is already used.
+[2025.02.11-13.42.52:719][605]LogBlueprint: Warning: Cannot name local variable 'Friends'. The name is already used.
+[2025.02.11-13.43.05:838][176]LogBlueprint: Warning: Cannot name local variable 'Friends'. The name is already used.
+[2025.02.11-13.45.38:186][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2917.270752
+[2025.02.11-13.45.38:378][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.45.38:378][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2917.453857, Update Interval: 301.019928
+[2025.02.11-13.45.40:833][502]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.02.11-13.48.07:345][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.02.11-13.48.07:994][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.48.08:022][926]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.48.08:024][926]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.48.08:024][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.48.08:032][926]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.48.08:033][926]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendListFA9738FE43265D17E6CB6492708C6C15.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.48.08:040][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.115 ms (total: 1.14 sec)
+[2025.02.11-13.48.08:067][926]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.48.08:067][926]LogContentValidation: Enabled validators:
+[2025.02.11-13.48.08:067][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.48.08:067][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.48.08:067][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.48.08:067][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.48.08:067][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.48.08:067][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.48.08:068][926]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.48.16:599][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.11-13.48.17:308][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.48.17:337][  9]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.48.17:339][  9]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.48.17:339][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.48.17:346][  9]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.48.17:347][  9]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendListB3C593764A2E563737EBBFA87C979B7A.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.48.17:355][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.070 ms (total: 1.19 sec)
+[2025.02.11-13.48.17:385][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.48.17:385][  9]LogContentValidation: Enabled validators:
+[2025.02.11-13.48.17:385][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.48.17:385][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.48.17:385][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.48.17:385][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.48.17:385][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.48.17:385][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.48.17:386][  9]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.50.11:513][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.11-13.50.11:514][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LobbyLevel' took 0.018
+[2025.02.11-13.50.11:515][811]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.50.11:517][811]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.50.11:517][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.50.11:526][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/UI/W_FriendList_Auto1
+[2025.02.11-13.50.11:526][811]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendList_Auto12449709A42C57368F762F091B4FBE27F.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/Autosaves/Game/Blueprints/UI/W_FriendList_Auto1.uasset'
+[2025.02.11-13.50.11:527][811]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.02.11-13.50.58:479][909]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.02.11-13.50.58:613][909]LogAutomationController: Ignoring very large delta of 5.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.02.11-13.51.08:440][925]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.02.11-13.51.08:444][925]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.02.11-13.51.15:617][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3254.681885
+[2025.02.11-13.51.15:783][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.51.15:783][802]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3254.840088, Update Interval: 307.454437
+[2025.02.11-13.53.20:877][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.11-13.53.20:881][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.53.20:913][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.53.20:915][515]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.53.20:915][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.53.20:925][515]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.53.20:926][515]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendList7E551E224FD60CF585BFEEAD8BA1F7C5.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.53.20:933][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.152 ms (total: 1.24 sec)
+[2025.02.11-13.53.20:962][515]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.53.20:962][515]LogContentValidation: Enabled validators:
+[2025.02.11-13.53.20:962][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.53.20:962][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.53.20:962][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.53.20:962][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.53.20:962][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.53.20:962][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.53.20:963][515]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.57.03:620][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3602.691895
+[2025.02.11-13.57.03:803][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-13.57.03:803][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3602.866455, Update Interval: 342.040466
+[2025.02.11-13.58.56:096][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.02.11-13.58.56:324][ 36]LogDerivedDataCache: C:/Users/ardil/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.11-13.58.56:960][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-13.58.56:988][111]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_FriendList] ([2] browsable assets)...
+[2025.02.11-13.58.56:991][111]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_FriendList.W_FriendList]
+[2025.02.11-13.58.56:991][111]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_FriendList]
+[2025.02.11-13.58.57:003][111]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_FriendList
+[2025.02.11-13.58.57:003][111]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendListE1A52B1448139D543FC1B680C07B6770.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset'
+[2025.02.11-13.58.57:010][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.982 ms (total: 1.29 sec)
+[2025.02.11-13.58.57:040][111]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-13.58.57:040][111]LogContentValidation: Enabled validators:
+[2025.02.11-13.58.57:040][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-13.58.57:040][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-13.58.57:040][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-13.58.57:040][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-13.58.57:040][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-13.58.57:040][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-13.58.57:041][111]AssetCheck: /Game/Blueprints/UI/W_FriendList Validating asset
+[2025.02.11-13.59.00:073][198]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.59.00:073][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.59.00:079][198]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.59.00:079][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.59.00:131][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.02.11-13.59.00:504][240]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.59.00:504][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.59.00:509][240]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-13.59.00:510][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-13.59.00:557][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.02.11-13.59.03:020][522]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/W_LobbyUI.W_LobbyUI
+[2025.02.11-13.59.03:020][522]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.02.11-13.59.03:026][522]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.02.11-14.01.43:246][593]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-14.02.12:263][105]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-14.02.24:322][402]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.11-14.02.42:522][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.02.11-14.02.43:053][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-14.02.43:081][584]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_LobbyUI] ([2] browsable assets)...
+[2025.02.11-14.02.43:085][584]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_LobbyUI.W_LobbyUI]
+[2025.02.11-14.02.43:085][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_LobbyUI]
+[2025.02.11-14.02.43:088][584]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_LobbyUI
+[2025.02.11-14.02.43:089][584]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_LobbyUI0593F99D43358257BB4AE89A04480057.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_LobbyUI.uasset'
+[2025.02.11-14.02.43:096][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.158 ms (total: 1.33 sec)
+[2025.02.11-14.02.43:128][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-14.02.43:128][584]LogContentValidation: Enabled validators:
+[2025.02.11-14.02.43:128][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-14.02.43:128][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-14.02.43:128][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-14.02.43:128][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-14.02.43:128][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-14.02.43:128][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-14.02.43:129][584]AssetCheck: /Game/Blueprints/UI/W_LobbyUI Validating asset
+[2025.02.11-14.03.42:228][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4001.293213
+[2025.02.11-14.03.43:293][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.02.11-14.03.43:370][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-14.03.43:370][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4001.969971, Update Interval: 343.331390
+[2025.02.11-14.03.43:815][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-14.03.43:843][421]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_LobbyUI] ([2] browsable assets)...
+[2025.02.11-14.03.43:846][421]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_LobbyUI.W_LobbyUI]
+[2025.02.11-14.03.43:846][421]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_LobbyUI]
+[2025.02.11-14.03.43:850][421]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_LobbyUI
+[2025.02.11-14.03.43:851][421]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_LobbyUIA986240C495BD7D57034C6BF390F6459.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_LobbyUI.uasset'
+[2025.02.11-14.03.43:858][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.571 ms (total: 1.37 sec)
+[2025.02.11-14.03.43:879][421]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-14.03.43:879][421]LogContentValidation: Enabled validators:
+[2025.02.11-14.03.43:879][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-14.03.43:879][421]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-14.03.43:879][421]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-14.03.43:880][421]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-14.03.43:880][421]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-14.03.43:880][421]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-14.03.43:881][421]AssetCheck: /Game/Blueprints/UI/W_LobbyUI Validating asset
+[2025.02.11-14.03.55:268][778]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameInstance.BP_GameInstance
+[2025.02.11-14.03.55:268][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.02.11-14.05.39:079][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-14.05.39:105][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2025.02.11-14.05.39:105][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2025.02.11-14.05.39:109][323]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2025.02.11-14.05.39:109][323]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_GameInstance138B168E47BB2A9AAFEAE2AC537A55DE.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/BP_GameInstance.uasset'
+[2025.02.11-14.05.39:116][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.406 ms (total: 1.41 sec)
+[2025.02.11-14.05.39:145][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-14.05.39:145][323]LogContentValidation: Enabled validators:
+[2025.02.11-14.05.39:145][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-14.05.39:145][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-14.05.39:145][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-14.05.39:145][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-14.05.39:145][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-14.05.39:145][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-14.05.39:145][323]AssetCheck: /Game/Blueprints/BP_GameInstance Validating asset
+[2025.02.11-14.05.45:871][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.02.11-14.05.46:236][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.02.11-14.05.46:844][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-14.05.46:870][523]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2025.02.11-14.05.46:870][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameInstance]
+[2025.02.11-14.05.46:874][523]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_GameInstance
+[2025.02.11-14.05.46:874][523]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/BP_GameInstanceE305C7AB4D51396B52043D876A0CB039.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/BP_GameInstance.uasset'
+[2025.02.11-14.05.46:882][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.823 ms (total: 1.45 sec)
+[2025.02.11-14.05.46:913][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-14.05.46:913][523]LogContentValidation: Enabled validators:
+[2025.02.11-14.05.46:913][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-14.05.46:913][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-14.05.46:913][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-14.05.46:913][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-14.05.46:913][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-14.05.46:913][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-14.05.46:914][523]AssetCheck: /Game/Blueprints/BP_GameInstance Validating asset
+[2025.02.11-14.05.58:661][918]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/UI/W_Friend.W_Friend
+[2025.02.11-14.05.58:661][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.02.11-14.05.58:667][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.02.11-14.06.25:783][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.02.11-14.06.26:269][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-14.06.26:300][132]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/UI/W_Friend] ([2] browsable assets)...
+[2025.02.11-14.06.26:303][132]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/UI/W_Friend.W_Friend]
+[2025.02.11-14.06.26:304][132]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/W_Friend]
+[2025.02.11-14.06.26:312][132]LogSavePackage: Moving output files for package: /Game/Blueprints/UI/W_Friend
+[2025.02.11-14.06.26:312][132]LogSavePackage: Moving '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Saved/W_FriendD1FD5EC24269E51522EAB0881E2961C5.tmp' to '../../../../../../Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset'
+[2025.02.11-14.06.26:319][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.085 ms (total: 1.50 sec)
+[2025.02.11-14.06.26:344][132]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.11-14.06.26:344][132]LogContentValidation: Enabled validators:
+[2025.02.11-14.06.26:344][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-14.06.26:344][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-14.06.26:344][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-14.06.26:344][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-14.06.26:344][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-14.06.26:344][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-14.06.26:345][132]AssetCheck: /Game/Blueprints/UI/W_Friend Validating asset
+[2025.02.11-14.06.43:117][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms

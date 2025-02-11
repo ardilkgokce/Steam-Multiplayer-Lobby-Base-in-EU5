@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LobbyLevel.umap",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Levels/LoadInLevel.umap",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/BP_ThirdPersonGamemode.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/GameStateBase.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/ThirdPerson/Blueprints/PlayerController.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_PC_Lobby.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_LobbyUI.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset"
 			]
 		}
 	]
