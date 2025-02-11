@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SteamMPLobby",
+			"Path": "..\\Source\\SteamMPLobby.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SteamMPLobbyEditor",
+			"Path": "..\\Source\\SteamMPLobbyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

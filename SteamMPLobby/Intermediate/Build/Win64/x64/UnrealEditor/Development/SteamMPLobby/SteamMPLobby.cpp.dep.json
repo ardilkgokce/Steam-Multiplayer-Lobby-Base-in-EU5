@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\source\\steammplobby\\steammplobby.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\intermediate\\build\\win64\\x64\\steammplobbyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammplobby\\definitions.steammplobby.h",
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\source\\steammplobby\\steammplobby.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

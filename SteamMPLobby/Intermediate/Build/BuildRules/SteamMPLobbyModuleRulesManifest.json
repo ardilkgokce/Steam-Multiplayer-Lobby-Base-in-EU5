@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ardil\\Desktop\\UE Projects\\Steam-Multiplayer-Lobby-Base-in-EU5\\SteamMPLobby\\Source\\SteamMPLobby\\SteamMPLobby.Build.cs",
+		"C:\\Users\\ardil\\Desktop\\UE Projects\\Steam-Multiplayer-Lobby-Base-in-EU5\\SteamMPLobby\\Source\\SteamMPLobby.Target.cs",
+		"C:\\Users\\ardil\\Desktop\\UE Projects\\Steam-Multiplayer-Lobby-Base-in-EU5\\SteamMPLobby\\Source\\SteamMPLobbyEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

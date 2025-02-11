@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\source\\steammplobby\\steammplobbygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\intermediate\\build\\win64\\x64\\steammplobbyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\steammplobby\\definitions.steammplobby.h",
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\source\\steammplobby\\steammplobbygamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\intermediate\\build\\win64\\unrealeditor\\inc\\steammplobby\\uht\\steammplobbygamemode.generated.h",
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\source\\steammplobby\\steammplobbycharacter.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\ardil\\desktop\\ue projects\\steam-multiplayer-lobby-base-in-eu5\\steammplobby\\intermediate\\build\\win64\\unrealeditor\\inc\\steammplobby\\uht\\steammplobbycharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

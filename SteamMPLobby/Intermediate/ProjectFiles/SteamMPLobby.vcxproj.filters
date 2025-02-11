@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SteamMPLobby.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SteamMPLobby.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SteamMPLobbyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SteamMPLobby">
+      <UniqueIdentifier>{ED1CAA7B-0308-3EEF-9165-929388E2D4C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SteamMPLobby\SteamMPLobby.Build.cs">
+      <Filter>Source\SteamMPLobby</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SteamMPLobby\SteamMPLobby.cpp">
+      <Filter>Source\SteamMPLobby</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SteamMPLobby\SteamMPLobby.h">
+      <Filter>Source\SteamMPLobby</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SteamMPLobby\SteamMPLobbyCharacter.cpp">
+      <Filter>Source\SteamMPLobby</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SteamMPLobby\SteamMPLobbyCharacter.h">
+      <Filter>Source\SteamMPLobby</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SteamMPLobby\SteamMPLobbyGameMode.cpp">
+      <Filter>Source\SteamMPLobby</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SteamMPLobby\SteamMPLobbyGameMode.h">
+      <Filter>Source\SteamMPLobby</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
