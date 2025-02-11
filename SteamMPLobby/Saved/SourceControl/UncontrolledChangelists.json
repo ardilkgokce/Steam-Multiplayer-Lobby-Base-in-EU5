@@ -15,7 +15,10 @@
 				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_PC_Lobby.uasset",
 				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_LobbyUI.uasset",
 				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_Friend.uasset",
-				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset"
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/UI/W_FriendList.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_PlayerSlot.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_LobbyPawn.uasset",
+				"C:/Users/ardil/Desktop/UE Projects/Steam-Multiplayer-Lobby-Base-in-EU5/SteamMPLobby/Content/Blueprints/Lobby/BP_LobbyGameMode.uasset"
 			]
 		}
 	]
